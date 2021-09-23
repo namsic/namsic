@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Notion Page](https://namsic.notion.site/6a3315d525314b6986c4f9685b124738)
 <!--
 **namsic/namsic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
