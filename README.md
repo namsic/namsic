@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Hi there 👋](https://namsic.notion.site/Namjae-Kim-de4d33aa89384ab6930ed8364966eade)
 <!--
 **namsic/namsic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
