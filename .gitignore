@@ -1,0 +1,8 @@
+*.log
+*.pid
+
+# OS
+.DS_Store
+
+# IDE
+.vscode

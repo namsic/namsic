@@ -1,0 +1,29 @@
+[user]
+    name = Namjae Kim
+    email = namjae.kim@namsic.dev
+    # signingkey = /home/namsic/.ssh/id_rsa.pub
+
+[core]
+    editor = vim
+    autocrlf = input
+    excludesfile = ~/.gitignore
+
+[pull]
+    ff = only
+
+[alias]
+    alias = config --get-regexp '^alias\\.'
+    br = branch
+    st = status -s
+    cs = commit -S
+    pl = pull -r
+    ps = push
+    lg = log --graph --oneline
+    root = rev-parse --show-toplevel
+    fetch-pr = "!f() { git fetch $1 refs/pull/$2/head:$1/$2; git switch $1/$2; }; f"
+
+[gpg]
+    format = ssh
+
+#[includeIf "gitdir:~/some/path/"]
+#    path = ~/some/path/.gitconfig
