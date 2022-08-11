@@ -1,0 +1,5 @@
+alias rm='rm -r'
+alias cp='cp -r'
+alias mkdir='mkdir -p'
+#alias ls='ls -Alh --color=auto'
+alias ls='ls -Alh'

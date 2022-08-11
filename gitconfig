@@ -1,0 +1,25 @@
+[user]
+    name = Namjae Kim
+    email = namjae.kim@namsic.dev
+    signingkey = ~/.ssh/namjae_kim_namsic_dev.pub
+
+[core]
+    editor = vim
+    autocrlf = input
+    excludesfile = ~/.gitignore
+
+[pull]
+    ff = only
+
+[alias]
+    alias = config --get-regexp '^alias\\.'
+    st = status -s
+    cs = commit -S
+    lg = log --graph --oneline
+
+[gpg]
+    format = ssh
+
+[init]
+   defaultBranch = main
+
