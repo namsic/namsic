@@ -6,3 +6,7 @@ alias ls='ls -alh --color=auto'
 function mkcd() {
     mkdir $1 && cd $1
 }
+
+function duh() {
+    du -hd1 $@ | sort -hr
+}
