@@ -25,5 +25,8 @@
 [gpg]
     format = ssh
 
+[init]
+   defaultBranch = main
+
 #[includeIf "gitdir:~/some/path/"]
 #    path = ~/some/path/.gitconfig
