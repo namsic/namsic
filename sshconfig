@@ -1,0 +1,9 @@
+Host github.com
+  IdentityFile ~/.ssh/namjae_kim_namsic_dev
+
+# example
+HOST myserver
+  HostName 127.0.0.1
+  User namjae.kim
+  Port 22
+  IdentityFile ~/.ssh/namjae_kim_namsic_dev
